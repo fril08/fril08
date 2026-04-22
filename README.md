@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Safril Yusup Maulana — aka frildev
+# Hi there 👋, I'm Safril Yusup Maulana — aka fril08
 
 💖 I'm currently learning **MERN Stack** (MongoDB, Express.js, React.js, Node.js)  
 🚀 Future full-stack developer — one commit at a time  
